@@ -4,3 +4,5 @@ kasmweb/nginx:1.25.3
 --platform linux/arm64 cooderl/wewe-rss-sqlite:latest
 djniche/m3u8dl:latest
 excaliburkrv/m3u8-dl:latest
+loopvoid/m3u8down:latest
+orangbus/m3u8-downloader:latest
